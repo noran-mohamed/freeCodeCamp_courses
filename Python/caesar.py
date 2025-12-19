@@ -21,5 +21,13 @@ def encrypt(text, shift):
     
 def decrypt(text, shift):
     return caesar(text, shift, encrypt=False)
-encrypted_text = encrypt('freeCodeCamp', 3)
-print(encrypted_text)
+
+text = input("Please enter the text you wanna encrypt/decrypt: ")
+enc_or_dec = input("Please enter 0 if you wanna encrypt the text and 1 otherwise: ")
+shift = int(input("Please specify the required shift: "))
+
+if enc_or_dec == 0 :
+    print(encrypt(text, shift))
+else:
+    print(decrypt(text, shift))
+
