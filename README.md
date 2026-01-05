@@ -19,7 +19,7 @@ A small program that validates a list of medical records to ensure they follow a
 This program allows users to manage their settings such as theme, language, and notifications. I implemented functions to add, update, delete, and view user settings.
 
 ## ISBN_validator.py -> AN ISBN validator
-The ISBN (International Standard Book Number) is a unique identifier assigned to commercial books. It can be either 10 or 13 digits long, and the last digit is a check digit calculated from the other digits. When the user runs the program, it will show the prompt Enter ISBN and length: The user can enter the ISBN code they want to validate in **ISBN,length** format. The ISBN code should not contain hyphens, followed by its length (10 or 13), separated by a comma.
+The ISBN (International Standard Book Number) is a unique identifier assigned to commercial books. It can be either 10 or 13 digits long, and the last digit is a check digit calculated from the other digits. When the user runs the program, it will show the prompt **Enter ISBN and length:** The user can enter the ISBN code they want to validate in **ISBN,length** format. The ISBN code should not contain hyphens, followed by its length (10 or 13), separated by a comma.
 
 Example inputs: 1530051126,10 for ISBN-10 codes. 9781530051120,13 for ISBN-13 codes.
 
