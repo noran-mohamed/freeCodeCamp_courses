@@ -31,4 +31,5 @@ This mini program simulates sending, receiving, and managing emails between diff
 
 ## budget_app.py -> A Budget App 
 This simple budget app tracks spending in different categories and can show the relative spending percentage on a graph.
+
 <img src="Python/logo/budget_app.png" alt="Logo" width="150" height="150">
