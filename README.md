@@ -30,5 +30,5 @@ This Python exercise defines a Planet class that represents a planet and its bas
 This mini program simulates sending, receiving, and managing emails between different users, by implementing classes, objects, and how to organize code in an object-oriented way.
 
 ## budget_app.py -> A Budget App 
-![Alt Text](python/logo/budget_app.png)
+![Alt Text](Python/logo/budget_app.png)
 This simple budget app tracks spending in different categories and can show the relative spending percentage on a graph.
