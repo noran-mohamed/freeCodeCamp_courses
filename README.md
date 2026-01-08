@@ -33,3 +33,6 @@ This mini program simulates sending, receiving, and managing emails between diff
 This simple budget app tracks spending in different categories and can show the relative spending percentage on a graph.
 
 <img src="Python/logo/budget_app.png" alt="Logo" width="150" height="150">
+
+## salary_tracker.py -> A Salary Tracker System
+A salary tracking system for employees.
