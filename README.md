@@ -16,7 +16,7 @@ A small program that creates an RPG character after validating the character nam
 ## pin_extractor.py -> A Pin Extractor from Poems
 Given a poem or more, this mini project is used to extract the hidden pins in the input poems, where the nth digit of the pin is hidden as the length of the nth word in the nth line, e.g., the first digit of the pin is hidden as the length of the first word in the first line.
 
-<img src="Python/logo/pin.png" alt="Logo" width="150" height="150">
+<img src="Python/logo/extractor.png" alt="Logo" width="150" height="150">
 
 ## medical_data_validator.py -> A Medical Data Validator
 A small program that validates a list of medical records to ensure they follow a consistent format. Each record is checked to confirm it is a dictionary containing the required fields (patient ID, age, gender, diagnosis, medications, and last visit ID). If any record or field is invalid, the program reports detailed error messages indicating the unexpected format and the position of the faulty record; otherwise, it confirms that all records are valid.
