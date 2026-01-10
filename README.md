@@ -34,6 +34,8 @@ Example inputs: 1530051126,10 for ISBN-10 codes. 9781530051120,13 for ISBN-13 co
 ## planet_class.py -> A Planet Class
 This Python exercise defines a Planet class that represents a planet and its basic properties, along with simple validation to ensure all attributes are valid.  It provides methods to display planet information and simulate orbital behavior.
 
+<img src="Python/logo/planet.png" alt="Logo" width="150" height="150">
+
 ## email_simulator.py -> An Email Simulator 
 This mini program simulates sending, receiving, and managing emails between different users, by implementing classes, objects, and how to organize code in an object-oriented way.
 
