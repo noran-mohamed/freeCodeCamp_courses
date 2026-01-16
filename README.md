@@ -46,3 +46,6 @@ This simple budget app tracks spending in different categories and can show the 
 
 ## salary_tracker.py -> A Salary Tracker System
 A salary tracking system for employees.
+
+## game_char_stats_tracker.py -> A Game Character Stats Tracker
+A game character stats tracker. The program will allow you to create a character with specific attributes, update those attributes, and retrieve the current stats of the character.
