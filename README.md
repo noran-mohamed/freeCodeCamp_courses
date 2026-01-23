@@ -21,6 +21,8 @@ Given a poem or more, this mini project is used to extract the hidden pins in th
 ## medical_data_validator.py -> A Medical Data Validator
 A small program that validates a list of medical records to ensure they follow a consistent format. Each record is checked to confirm it is a dictionary containing the required fields (patient ID, age, gender, diagnosis, medications, and last visit ID). If any record or field is invalid, the program reports detailed error messages indicating the unexpected format and the position of the faulty record; otherwise, it confirms that all records are valid.
 
+<img src="Python/logo/med.png" alt="Logo" width="150" height="150">
+
 ## build_a_user_configuration_manager.py -> A User Configuration Manager
 This program allows users to manage their settings such as theme, language, and notifications. I implemented functions to add, update, delete, and view user settings.
 
