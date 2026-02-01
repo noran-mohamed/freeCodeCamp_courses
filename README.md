@@ -53,3 +53,6 @@ A salary tracking system for employees.
 
 ## game_char_stats_tracker.py -> A Game Character Stats Tracker
 A game character stats tracker. The program will allow you to create a character with specific attributes, update those attributes, and retrieve the current stats of the character.
+
+## media_catalogue.py -> A Media Catalogue System
+A media catalogue system that manages movies and TV series using object-oriented principles, with validation, inheritance, custom exceptions, and categorized display of media items.
