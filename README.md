@@ -43,6 +43,8 @@ This Python exercise defines a Planet class that represents a planet and its bas
 ## email_simulator.py -> An Email Simulator 
 This mini program simulates sending, receiving, and managing emails between different users, by implementing classes, objects, and how to organize code in an object-oriented way.
 
+<img src="Python/logo/email.png" alt="Logo" width="150" height="150">
+
 ## budget_app.py -> A Budget App 
 This simple budget app tracks spending in different categories and can show the relative spending percentage on a graph.
 
@@ -50,6 +52,8 @@ This simple budget app tracks spending in different categories and can show the 
 
 ## salary_tracker.py -> A Salary Tracker System
 A salary tracking system for employees.
+
+<img src="Python/logo/salary.png" alt="Logo" width="150" height="150">
 
 ## game_char_stats_tracker.py -> A Game Character Stats Tracker
 A game character stats tracker. The program will allow you to create a character with specific attributes, update those attributes, and retrieve the current stats of the character.
