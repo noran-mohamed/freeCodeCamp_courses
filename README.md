@@ -60,3 +60,6 @@ A game character stats tracker. The program will allow you to create a character
 
 ## media_catalogue.py -> A Media Catalogue System
 A media catalogue system that manages movies and TV series using object-oriented principles, with validation, inheritance, custom exceptions, and categorized display of media items.
+
+## discount_calculator.py -> A Discount Calculator
+A discount calculator that can apply different discount strategies to products. The system will determine the best price for a customer based on multiple discount rules.
