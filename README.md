@@ -66,3 +66,6 @@ A discount calculator that can apply different discount strategies to products. 
 
 ## player_interface.py -> A Player Interface
 A simple game system where a character moves randomly on a grid, keeps track of where it has been, and gains more movement options as it levels up.
+
+## polygon_calculator.py -> A Polygon Area Calculator
+This mini program defines Rectangle and Square classes to model basic geometric shapes. It calculates area, perimeter, and diagonal length; it can draw the shape using stars. This program also demonstrates how many times one shape can fit inside another without rotation.
