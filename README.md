@@ -65,10 +65,13 @@ A media catalogue system that manages movies and TV series using object-oriented
 A discount calculator that can apply different discount strategies to products. The system will determine the best price for a customer based on multiple discount rules.
 
 ## player_interface.py -> A Player Interface
-A simple game system where a character moves randomly on a grid, keeps track of where it has been, and gains more movement options as it levels up.
+A simple game system in which a character moves randomly on a grid, keeps track of where it has been, and gains additional movement options as it levels up.
 
 ## polygon_calculator.py -> A Polygon Area Calculator
 This mini program defines Rectangle and Square classes to model basic geometric shapes. It calculates area, perimeter, and diagonal length; it can draw the shape using stars. This program also demonstrates how many times one shape can fit inside another without rotation.
 
 ## linked_list_implementation.py -> A LinkedList Implementation 
 This singly linked list implementation allows adding elements to the end of the list, removing a specific element, checking whether the list is empty, and tracking the number of elements using a length variable.
+
+## hash_table.py -> A Hash Table Implementation from Scratch 
+A hash table implementation from scratch. A hash table is a data structure that stores the key as an input and then hashing this key according to specific hashing function. The hashing function used is summing the unicode values of each character in the key. The hash value will then be used as the actual key to store the associated value, the same hash value would also be used to retrieve and delete the value associated with the key.
