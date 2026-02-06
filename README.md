@@ -69,3 +69,6 @@ A simple game system where a character moves randomly on a grid, keeps track of 
 
 ## polygon_calculator.py -> A Polygon Area Calculator
 This mini program defines Rectangle and Square classes to model basic geometric shapes. It calculates area, perimeter, and diagonal length; it can draw the shape using stars. This program also demonstrates how many times one shape can fit inside another without rotation.
+
+## linked_list_implementation.py -> A LinkedList Implementation 
+This singly linked list implementation allows adding elements to the end of the list, removing a specific element, checking whether the list is empty, and tracking the number of elements using a length variable.
