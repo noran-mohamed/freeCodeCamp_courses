@@ -63,3 +63,6 @@ A media catalogue system that manages movies and TV series using object-oriented
 
 ## discount_calculator.py -> A Discount Calculator
 A discount calculator that can apply different discount strategies to products. The system will determine the best price for a customer based on multiple discount rules.
+
+## player_interface.py -> A Player Interface
+A simple game system where a character moves randomly on a grid, keeps track of where it has been, and gains more movement options as it levels up.
