@@ -77,4 +77,7 @@ This singly linked list implementation allows adding elements to the end of the 
 A hash table implementation from scratch. A hash table is a data structure that stores the key as an input and then hashes this key according to a specific hashing function. The hashing function used is summing the Unicode values of each character in the key. The hash value will then be used as the actual key to store the associated value; the same hash value would also be used to retrieve and delete the value associated with the key.
 
 ## binary_search.py -> A Binary Search Implementation from Scratch
-A simple implementation for binary search from scratch.
+A simple implementation of binary search from scratch.
+
+## bisection_method.py -> A Bisection Method
+The bisection method, also known as the binary search method, uses a binary search to find the roots of a real-valued function. It works by narrowing down an interval where the square root lies until it converges to a value within a specified tolerance.
