@@ -81,3 +81,18 @@ A simple implementation of binary search from scratch.
 
 ## bisection_method.py -> A Bisection Method
 The bisection method, also known as the binary search method, uses a binary search to find the roots of a real-valued function. It works by narrowing down an interval where the square root lies until it converges to a value within a specified tolerance.
+
+## merge_sort.py -> An Implementation of Merge Sort 
+Merge sort is a sorting algorithm that uses the divide-and-conquer principle to sort collections of data. That is, it "divides" a collection into smaller sub-parts, and "conquers" the sub-parts by sorting them independently, then merges the sorted sub-parts.
+
+## quick_sort.py -> An Implementation of Quick Sort
+A simple implementation of the Quick Sort Algorithm 
+
+## selection_sort.py -> An Implementation of Selection Sort
+A simple implementation of the Selection Sort Algorithm 
+
+## luhn_algorithm.py -> An Implementation of the Luhn Algorithm 
+The Luhn algorithm, also known as the "modulus 10" or "mod 10" algorithm, is a simple checksum formula used to validate a variety of identification numbers, like credit card numbers. This is a simple implementation of a credit card validator using the Luhn algorithm.
+
+## tower_of_hanoi.py -> Tower of Hanoi Algorithm
+This implementation is the solution of the mathematical puzzle known as the Tower of Hanoi.
