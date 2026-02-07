@@ -95,4 +95,7 @@ A simple implementation of the Selection Sort Algorithm
 The Luhn algorithm, also known as the "modulus 10" or "mod 10" algorithm, is a simple checksum formula used to validate a variety of identification numbers, like credit card numbers. This is a simple implementation of a credit card validator using the Luhn algorithm.
 
 ## tower_of_hanoi.py -> Tower of Hanoi Algorithm
-This implementation is the solution of the mathematical puzzle known as the Tower of Hanoi.
+This implementation is the solution to the mathematical puzzle known as the Tower of Hanoi.
+
+## shortest_path.py -> Shortest Path Algorithm 
+An implementation of the shortest path algorithm by writing a function that computes the shortest path between the nodes in a graph, and also returns the path taken.
