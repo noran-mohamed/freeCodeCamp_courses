@@ -74,4 +74,7 @@ This mini program defines Rectangle and Square classes to model basic geometric 
 This singly linked list implementation allows adding elements to the end of the list, removing a specific element, checking whether the list is empty, and tracking the number of elements using a length variable.
 
 ## hash_table.py -> A Hash Table Implementation from Scratch 
-A hash table implementation from scratch. A hash table is a data structure that stores the key as an input and then hashing this key according to specific hashing function. The hashing function used is summing the unicode values of each character in the key. The hash value will then be used as the actual key to store the associated value, the same hash value would also be used to retrieve and delete the value associated with the key.
+A hash table implementation from scratch. A hash table is a data structure that stores the key as an input and then hashes this key according to a specific hashing function. The hashing function used is summing the Unicode values of each character in the key. The hash value will then be used as the actual key to store the associated value; the same hash value would also be used to retrieve and delete the value associated with the key.
+
+## binary_search.py -> A Binary Search Implementation from Scratch
+A simple implementation for binary search from scratch.
