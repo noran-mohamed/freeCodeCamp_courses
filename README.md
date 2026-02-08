@@ -99,3 +99,9 @@ This implementation is the solution to the mathematical puzzle known as the Towe
 
 ## shortest_path.py -> Shortest Path Algorithm 
 An implementation of the shortest path algorithm by writing a function that computes the shortest path between the nodes in a graph, and also returns the path taken.
+
+## adjList2adjMat_converter.py -> An Adjacency List to Matrix Converter
+A function that converts an adjacency list representation of a graph into an adjacency matrix.
+
+## bfs.py -> Bredth-First Search Algorithm 
+A function that generates all valid combinations of parentheses using a breadth-first search (BFS) approach.
