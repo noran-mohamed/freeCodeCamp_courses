@@ -55,6 +55,15 @@ A salary tracking system for employees.
 
 <img src="Python/logo/salary.png" alt="Logo" width="150" height="150">
 
+## discount_calculator_function.pthon -> A Discount Calculator Function
+A function that calculates the final price of an item after applying a percentage discount.
+
+## report_card_printer.py -> Report Card Printer
+A simple report card printer.
+
+## movie_ticket_booking_calculator.py -> Movie Ticket Booking Calculator
+A mini program to handle the movie ticket booking process.
+
 ## game_char_stats_tracker.py -> A Game Character Stats Tracker
 A game character stats tracker. The program will allow you to create a character with specific attributes, update those attributes, and retrieve the current stats of the character.
 
@@ -105,3 +114,12 @@ A function that converts an adjacency list representation of a graph into an adj
 
 ## bfs.py -> Bredth-First Search Algorithm 
 A function that generates all valid combinations of parentheses using a breadth-first search (BFS) approach.
+
+## dfs.py -> Depth-First Search Algorithm 
+A function that implements the depth-first search algorithm to output a list of all nodes reachable from the node passed to it.
+
+## nQueens.py -> The N-Queens Algorithm
+An implementation for the N-Queens problem that asks to place N queens on an N×N chessboard so that no two queens attack each other (no two share a row, column, or diagonal). This problem is solved using the DFS approach
+
+## fibonacci.py -> Fibonacci Number Calculator
+An Nth Fibonacci Number Calculator
