@@ -9,5 +9,5 @@ The user can input the text that they wanna encrypt or decrypt, and also specify
 <img src="Python/logo/caesar_encryption.png" alt="Logo" width="150" height="150">
 
 ```
-Other Python projects can be found in the **Python directory**.
+Other Python projects can be found in the [Python directory](./Python).
 ```
