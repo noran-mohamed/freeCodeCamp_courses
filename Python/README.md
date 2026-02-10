@@ -63,7 +63,7 @@ A function that calculates the final price of an item after applying a percentag
 ## travel_wheather_planner.py -> A Travel Weather Planner
 A simple implementation of conditional statements to determine whether commuting is possible based on the weather, the distance to travel, and the availability of a vehicle.
 
-<img src="logo/weather.png" alt="Logo" width="150" height="150">
+<img src="logo/weatherr.png" alt="Logo" width="150" height="150">
 
 ## report_card_printer.py -> Report Card Printer
 A simple report card printer.
