@@ -58,6 +58,8 @@ A salary tracking system for employees.
 ## discount_calculator_function.pthon -> A Discount Calculator Function
 A function that calculates the final price of an item after applying a percentage discount.
 
+<img src="logo/cal.png" alt="Logo" width="150" height="150">
+
 ## travel_wheather_planner.py -> A Travel Weather Planner
 A simple implementation of conditional statements to determine whether commuting is possible based on the weather, the distance to travel, and the availability of a vehicle.
 
