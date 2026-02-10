@@ -19,5 +19,5 @@ Other Python projects can be found in the Python directory.
 ```
 HTML implementations can be found in the HTML directory.
 ```
-[HTML directory](./Responsive Web Design/HTML).
+[HTML directory](./Responsive_Web_Design/HTML).
 ---
