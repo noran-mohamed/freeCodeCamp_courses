@@ -14,3 +14,10 @@ Other Python projects can be found in the Python directory.
 
 [Python directory](./Python).
 ---
+## Responsive Web Design Course
+### HTML 
+```
+HTML implementations can be found in the HTML directory.
+```
+[HTML directory](./Responsive Web Design/HTML).
+---
